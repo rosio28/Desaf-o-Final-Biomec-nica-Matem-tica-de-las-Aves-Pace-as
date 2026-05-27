@@ -1,0 +1,13 @@
+REPORTE DEL PROYECTO
+====================
+FPS del video: 50.000
+Frames totales: 582
+Punto seleccionado: 31
+Frecuencia dominante estimada: 0.085911 Hz
+BBox inicial: (0, 0, 1279, 719)
+
+Resumen matemático:
+- Splines cúbicos por tramos.
+- Continuidad C0, C1 y C2.
+- Fourier sobre la señal temporal del ala.
+- Comparación natural / clamped / not-a-knot.
